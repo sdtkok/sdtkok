@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba 👋, ben Sedat kök</h1>
 <h3 align="center">Tutkulu bir ön uç ve arka uç geliştiricisiyim</h3>
 <p> ✍️ After improving myself in various projects in HTML and CSS, I focused on JavaScript and React, worked on various projects on these subjects and continue to improve myself.</p>
-<p> ⚡ What I have enjoyed most throughout my teaching life has been teaching something to others and discovering new things at the same time. That's why I follow technological developments closely.</p>
+<p> ⚡What I enjoyed most throughout my education life was teaching others and discovering new things at the same time. Therefore, I follow technological developments closely. </p>
 <p> 🤝 I attach great importance to information exchange and cooperation with others in line with the new information I learn every day.</p>
 <p>🔭 After working on JavaScript and React for a certain period of time, I felt the need to improve myself. And now I am working on React Native and Note Js.</p>
 
