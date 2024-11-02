@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdtkok&label=Profile%20views&color=0e75b6&style=flat" alt="sdtkok" /> </p>
 <p>🏍️ Among my favorite hobbies, I like riding motorcycles and going on motorcycle tours as a team.</p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sdtkok" alt="sdtkok" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/sedat-k%C3%B6k-442539259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://github-profile-trophy.vercel.app/?username=sdtkok" alt="sdtkok" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sdtkk4535" target="blank"><img src="https://img.shields.io/twitter/follow/sdtkk4535?logo=twitter&style=for-the-badge" alt="sdtkk4535" /></a> </p>
 
