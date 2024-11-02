@@ -1,15 +1,19 @@
 <h1 align="center">Merhaba 👋, ben Sedat kök</h1>
 <h3 align="center">Tutkulu bir ön uç ve arka uç geliştiricisiyim</h3>
+<p> ✍️ After improving myself in various projects in HTML and CSS, I focused on JavaScript and React, worked on various projects on these subjects and continue to improve myself.</p>
+<p> ⚡ What I have enjoyed most throughout my teaching life has been teaching something to others and discovering new things at the same time. That's why I follow technological developments closely.</p>
+<p> 🤝 I attach great importance to information exchange and cooperation with others in line with the new information I learn every day.</p>
+<p>🔭 After working on JavaScript and React for a certain period of time, I felt the need to improve myself. And now I am working on React Native and Note Js.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdtkok&label=Profile%20views&color=0e75b6&style=flat" alt="sdtkok" /> </p>
-
+<p>🏍️ Among my favorite hobbies, I like riding motorcycles and going on motorcycle tours as a team.</p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sdtkok" alt="sdtkok" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sdtkk4535" target="blank"><img src="https://img.shields.io/twitter/follow/sdtkk4535?logo=twitter&style=for-the-badge" alt="sdtkk4535" /></a> </p>
 
 - Bana buradan ulaşabilirsiniz. **sdtkk4535@gmail.com**
 
-<h3 align="left">Benimle iletişime geçin:</h3>
+<h3 align="left">Benimle buradan iletişime geçebilirsiniz.:</h3>
 <p align="left">
 <a href="https://twitter.com/sdtkk4535" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sdtkk4535" height="30" width="40" /></a>
 <a href="https://linkedin.com/tr/https://www.linkedin.com/tr/sedat-kök-442539259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sedat-kök-442539259" height="30" width="40" /></a>
