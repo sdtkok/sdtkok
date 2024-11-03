@@ -3,7 +3,7 @@
 <p> ✍️ After improving myself in various projects in HTML and CSS, I focused on JavaScript and React, worked on various projects on these subjects and continue to improve myself.</p>
 <p> ⚡What I enjoyed most throughout my education life was teaching others and discovering new things at the same time. Therefore, I follow technological developments closely. </p>
 <p> 🤝 I attach great importance to information exchange and cooperation with others in line with the new information I learn every day.</p>
-<p>🔭 After working on JavaScript and React for a certain period of time, I felt the need to improve myself. And now I am working on React Native and Note Js.</p>
+<p>🔭 After working on JavaScript and React for a certain period of time, I felt the need to improve myself. And now I am working on React Native,Note Js and Mobile.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdtkok&label=Profile%20views&color=0e75b6&style=flat" alt="sdtkok" /> </p>
 <p>🏍️ Among my favorite hobbies, I like riding motorcycles and going on motorcycle tours as a team.</p>
