@@ -12,7 +12,6 @@
 <p align="left"> <a href="https://twitter.com/sdtkk4535" target="blank"><img src="https://img.shields.io/twitter/follow/sdtkk4535?logo=twitter&style=for-the-badge" alt="sdtkk4535" /></a> </p>
 
 - Bana buradan ulaşabilirsiniz. **sdtkk4535@gmail.com**
-- 👨‍💻 All of my projects are available at [https://github.com/sdtkok](https://github.com/sdtkok)
 
 <h3 align="left">Benimle buradan iletişime geçebilirsiniz.:</h3>
 <p align="left">
